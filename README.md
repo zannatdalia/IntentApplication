@@ -1,0 +1,2 @@
+# IntentApplication
+Implicit+Explicit+Lifesycle
